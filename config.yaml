@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Hamish Thomas
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -21,7 +21,7 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: MishyPeas@domain.com
+      - email: hthomas.mam2022@london.edu
         title: Email
     enable: yes
     phone:
